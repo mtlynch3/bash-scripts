@@ -25,4 +25,4 @@
 
 
 
-# Students - delete this line and put your work here
+ls -ds -1 /etc/*.* | grep .conf$

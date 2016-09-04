@@ -17,4 +17,4 @@
 
 
 
-# Students - delete this line and put your work here
+grep ^\* /usr/share/emacs/24.3/etc/WHY-FREE | tail -n 3 

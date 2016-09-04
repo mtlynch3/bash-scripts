@@ -51,4 +51,4 @@
 
 
 
-# Students - delete this line and put your work here
+mkdir -p months/201{0..6}/{01..12}

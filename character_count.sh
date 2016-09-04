@@ -16,5 +16,4 @@
 ###############################################################################
 
 
-
-# Students - delete this line and put your work here
+wc -m < /usr/share/emacs/24.3/etc/WHY-FREE

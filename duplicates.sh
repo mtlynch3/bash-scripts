@@ -19,4 +19,4 @@
 
 
 
-# Students - delete this line and put your work here
+ls /bin /usr/bin | sort | uniq -d

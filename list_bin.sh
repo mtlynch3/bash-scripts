@@ -20,4 +20,4 @@
 
 
 
-# Students - delete this line and put your work here
+ls /usr/bin | grep '^f...$'

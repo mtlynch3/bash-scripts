@@ -12,4 +12,4 @@
 
 
 
-# Students - delete this line and put your work here
+cat /etc/passwd | grep home | sort
