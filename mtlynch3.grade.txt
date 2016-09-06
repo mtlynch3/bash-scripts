@@ -1,0 +1,17 @@
+__mtlynch3__LING402-HW3-GRADE-RURBRIC__
+
+character_count.sh functions correctly:	1/1
+duplicates.sh functions correctly:	1/1
+find_final_bullet_points.sh functions correctly:	1/1
+list_bin.sh functions correctly:	1/1
+list_conf.sh functions correctly:	1/1
+long_list_reverse_sort_human_readable.sh functions correctly:	1/1
+mk_year_dirs.sh functions correctly:	1/1
+orthodox_easter.sh functions correctly:	1/1
+print_full_path.sh functions correctly:	1/1
+sorted_user_list.sh functions correctly:	0/1
+
+TOTAL:	9/10
+
+__TA-COMMENTS-IF-ANY__
+sorted_user_list.sh: You need a way to separate out only the usernames from each line. What can you do to accomplish this? (See the man page for cut)
